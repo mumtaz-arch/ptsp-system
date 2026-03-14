@@ -1,0 +1,4 @@
+node_modules/
+vendor/
+.git_backup*/
+.git_backup_old/
